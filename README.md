@@ -8,4 +8,4 @@ Projeto para verificar qual a melhor escolja para um aporte.
 - descobrir taxa de crescimento da carteira;
 - meta para cara ativo na carteira;
 - salvar informações em execel;
-  teste
+- teste com yarn
